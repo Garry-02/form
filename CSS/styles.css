@@ -1,0 +1,26 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    color: #575279;
+    background-color: #faf4ed;
+}
+
+form {
+    padding: 2rem;
+    color: #286983;
+}
+
+.name, .email {
+    color: #286983;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+input, textarea{
+    color: #232136;
+}
+
+.submit {
+    padding-top: 1rem;
+    padding-left: 7rem;
+}
+
